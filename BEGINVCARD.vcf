@@ -1,15 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Yau Junno
-FN: Junno
-LN: Yau
+N:Yau;Junno;;;
+FN:Junno Yau
 ORG:KENBOTONG TECHNOLOGY CO., LTD.
-TITLE:GENERAL MAANGER
-TEL;CELL:+1-415-713-0788
-TEL;CELL:+86-13928270544
-EMAIL:junno@kenbotong.com
-ADR: Dongyang 3rd Road, Danzao Town, Nanhai District, Foshan, Guangdong, China (528223)
-PHOTO;TYPE=JPEG;VALUE=URI:https://github.com/junnoyau-bot/kbt-staff-contacts/blob/main/junno.png
-URL:kenbotong.com
+TITLE:General Manager
+TEL;TYPE=CELL,VOICE:+1-415-713-0788
+TEL;TYPE=CELL,VOICE:+86-139-2827-0544
+EMAIL;TYPE=WORK:junno@kenbotong.com
+ADR;TYPE=WORK:;;Dongyang 3rd Road, Danzao Town;Foshan;Guangdong;528223;China
+PHOTO;TYPE=JPEG;VALUE=URI:https://raw.githubusercontent.com/junnoyau-bot/kbt-staff-contacts/main/junno.png
+URL:https://kenbotong.com
 END:VCARD
-
